@@ -184,3 +184,25 @@ img {
         margin-bottom: 3rem;
     }
  }
+
+
+ /* BONUS MEDIA QUERY DA 768px a 1160px */
+
+ @media screen and (max-width: 1160px) {
+
+    .site-header{
+        width: 100vw;
+    }
+
+    .lessons{
+        width: 100vw;
+    }
+
+    .steps{
+        width: 100vw;
+    }
+    
+    .container{
+        width: 100vw;
+    }
+ }
