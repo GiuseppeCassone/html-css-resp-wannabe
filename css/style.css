@@ -133,16 +133,16 @@ img {
  @media screen and (max-width: 768px){
 
     .site-header{
-        width: 768px;
+        max-width: 768px;
     }
 
     .container{
-        width: 768px;
+        max-width: 768px;
 
     }
 
     .steps{
-        width: 768px;
+        max-width: 768px;
     }
     
  }
@@ -155,11 +155,11 @@ img {
  @media screen and (max-width: 480px){
 
     .site-header{
-        width: 480px;
+        max-width: 480px;
     }
 
     .container{
-        width: 480px;
+        max-width: 480px;
     }
 
     .row{
@@ -173,7 +173,7 @@ img {
     }
 
     .steps{
-        width: 480px;
+        max-width: 480px;
         margin-bottom: 0;
         
 
